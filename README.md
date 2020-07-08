@@ -23,6 +23,8 @@ Beautifulsoup
 # beautifulsoup4 for getting data
 pip3 install beautifulsoup4
 ```
+### execute
+python3 main.py "your postgresql password"
 
 ### DEMO
 
