@@ -26,4 +26,4 @@ pip3 install beautifulsoup4
 
 ### DEMO
 
-![](https://github.com/SabrinaKung/DBMS20202_final/raw/master/demo.gif)
+![](demo.gif)
