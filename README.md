@@ -26,6 +26,4 @@ pip3 install beautifulsoup4
 
 ### DEMO
 
-![](demo.gif)
-
-
+![]()
