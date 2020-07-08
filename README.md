@@ -25,7 +25,11 @@ pip3 install beautifulsoup4
 ```
 ### execute
 ```
-python3 main.py "your postgresql password"
+Macos:
+Download postgresql,and create folder name "DBMS_movie"
+use createtable.sql and import csv file.
+The .csv file can be climbed by the file in folder 'climb'.
+And run python3 main.py "your postgresql password"
 ```
 
 ### DEMO
